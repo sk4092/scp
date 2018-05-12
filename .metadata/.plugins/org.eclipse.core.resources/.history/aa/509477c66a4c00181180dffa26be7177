@@ -1,0 +1,22 @@
+package com.scp.StaticFinal.staticdemo;
+
+public class StaticDemo extends Test{
+
+	/*public void display(){                     //can not ovveride static method
+		System.out.println("Staic of child");
+	}*/
+	
+	public void show(){                          //overriden method
+		
+	}
+}
+
+class Test{
+	public static void display(){
+		System.out.println("Staic of parent");
+	}
+	
+	public void show(){
+		System.out.println("Member of parent");
+	}
+}

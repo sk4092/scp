@@ -1,0 +1,16 @@
+package com.scp.SerealizationDemo;
+
+import com.scp.SerealizationDemo.model.SerializableStudent;
+
+/**
+ * Swapnil
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        SerializableStudent s= new SerializableStudent(20, 10);
+        System.out.println(s);
+    }
+}

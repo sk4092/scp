@@ -1,0 +1,16 @@
+package com.scp.PasswordGeneration;
+
+/**
+ * Hello world!
+ *
+ */
+public class PasswordGeneration 
+{
+    public static void main( String[] args )
+    {
+       String capitalLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+       String smallLetters = "abcdefghijklmnopqrstuvwxyz";
+       String numbers = "1234567890";
+       String symbols ="!@#$%^&*_=+-/.?<>)(";
+    }
+}

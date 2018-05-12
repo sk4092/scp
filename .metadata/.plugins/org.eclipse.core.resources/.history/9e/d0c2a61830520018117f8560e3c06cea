@@ -1,0 +1,18 @@
+package com.scp.SerealizationDemo;
+
+import java.io.Serializable;
+
+public class App2 {
+	
+	//If the structure of serializable class is changed after the serialization and then
+	//after we try to deserialize the object (using the class with new structure) it will throw the Exception
+	
+	
+
+}
+
+class SerializableStud implements Serializable{
+	
+	int rollNo = 10;
+	int standard = 5;
+}

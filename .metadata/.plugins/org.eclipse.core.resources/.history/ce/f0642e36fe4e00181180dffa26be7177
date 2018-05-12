@@ -1,0 +1,24 @@
+package com.scp.QuestionSet.ImmutableClass.model;
+
+import java.lang.reflect.Constructor;
+
+public class Test {
+	public static void main(String[] args) {
+		Student s=Student.getStudent();
+		System.out.println(s);
+		
+		Address a=Address.getAddress();
+		try {
+			Constructor<? extends Address> x=a.getClass().getConstructor(null);
+			for (Constructor c : x) {
+				
+			}
+		} catch (NoSuchMethodException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SecurityException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

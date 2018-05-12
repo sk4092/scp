@@ -1,0 +1,17 @@
+package com.thissuper;
+
+public class Child  {
+
+	
+	
+	
+	public Child() {
+		super();
+	}
+
+	public static void main(String[] args) {
+		Child c = new Child();
+	}
+}
+
+

@@ -1,0 +1,34 @@
+package services;
+
+import bookcomparator.BookIdSort;
+import bookcomparator.BookSortByBookName;
+
+public class CompareBookAuthor2 {
+	
+	
+	public static void main(String[] args) {
+		
+		
+	}
+	
+	private Object getBookComaparator(String compareBy){
+		
+		if(compareBy.equals("id"))
+			return new BookIdSort();
+		else if(compareBy.equals("name"))
+			return new BookSortByBookName();
+		else
+			return null;
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

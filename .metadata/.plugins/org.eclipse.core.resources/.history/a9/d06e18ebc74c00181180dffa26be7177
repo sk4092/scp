@@ -1,0 +1,23 @@
+package com.scp.QuestionSet.SecondLargest;
+
+public class SecondLargetWithoutSorting {
+	public static void main(String[] args) {
+		
+		int[] nums={20,54,65,75,46,85,87,87,75};
+		int largest=0;
+		int secondLargest=-1;
+		for (int i : nums) {
+			if(i>largest){
+				secondLargest=largest;
+				largest=i;
+			}
+			
+			else if(i!=largest && i>secondLargest){
+				secondLargest=i;
+			}
+		}
+		
+		System.out.println("Second Larget Number is "+secondLargest);
+		
+	}
+}

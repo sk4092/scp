@@ -1,0 +1,7 @@
+package com.thissuper;
+
+
+public class Child extends Parent{
+
+
+}

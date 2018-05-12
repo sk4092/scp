@@ -1,0 +1,26 @@
+package com.scp.PasswordGeneration;
+
+import java.util.Random;
+
+/**
+ * Hello world!
+ *
+ */
+public class PasswordGeneration 
+{
+    public static void main( String[] args )
+    {
+       String capitalLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+       String smallLetters = "abcdefghijklmnopqrstuvwxyz";
+       String numbers = "1234567890";
+       String symbols ="!@#$%^&*_=+-/.?<>)(";
+       
+       String val=capitalLetters+smallLetters+numbers+symbols;
+       Random random = new Random();
+       
+       
+       
+       
+       
+    }
+}

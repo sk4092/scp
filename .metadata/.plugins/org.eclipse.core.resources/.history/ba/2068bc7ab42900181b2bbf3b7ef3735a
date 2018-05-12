@@ -1,0 +1,22 @@
+package com.thissuper;
+
+public class Child extends Parent {
+
+	int x;
+	
+	
+	public Child(int x) {
+		super();
+		this.x = x;
+	}
+
+	public Child() {
+		//super();
+		this(x);
+	}
+
+	public static void main(String[] args) {
+		Child c =new Child();
+		
+	}
+}

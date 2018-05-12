@@ -1,0 +1,23 @@
+package com.scp.SerealizationDemo;
+
+import java.io.File;
+
+import com.scp.SerealizationDemo.model.SerializableStudent;
+
+/**
+ * Swapnil
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        
+    	File f =new File("D:\\swapnil\\Scoopen\\filesUsedInFileHandlingPrograms\\serilaztionNormalFields.txt");
+    	
+    	SerializableStudent s= new SerializableStudent(20, 10);
+        
+        
+        System.out.println(s);
+    }
+}

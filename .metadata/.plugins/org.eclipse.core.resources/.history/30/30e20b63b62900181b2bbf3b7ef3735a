@@ -1,0 +1,10 @@
+package com.thissuper;
+
+public class Parent {
+
+	public Parent() {
+		
+	}
+
+	
+}

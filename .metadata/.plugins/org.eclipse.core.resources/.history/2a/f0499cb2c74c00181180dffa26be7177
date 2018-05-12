@@ -1,0 +1,7 @@
+package com.scp.QuestionSet.SecondLargest;
+
+public class SecondLargetWithoutSorting {
+	public static void main(String[] args) {
+
+	}
+}

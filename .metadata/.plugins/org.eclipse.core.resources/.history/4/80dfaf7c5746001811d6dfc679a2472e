@@ -1,0 +1,7 @@
+package com.swap.mavendemo.service.impl;
+
+import com.swap.mavendemo.service.StudentService;
+
+public class StudentServiceImpl implements StudentService {
+
+}

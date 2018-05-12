@@ -1,0 +1,61 @@
+package com.scp.PasswordGeneration;
+
+import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
+
+public class PasswordGeneration 
+{
+	enum Complexity{
+		low,
+		mid,
+		high	
+	}
+    public static void main( String[] args )
+    {
+    	
+    	
+    	
+       System.out.print("Random Password Generated : ");
+       System.out.println(generateRandomPassword(6,10,Complexity.low));
+       System.out.println(generateRandomPassword(7,12,Complexity.mid));
+       System.out.println(generateRandomPassword(8,15,Complexity.high));
+      
+       
+       
+       
+    }
+    
+    public static char[] generateRandomPassword(int min,int max,Complexity complexity){
+    	
+    	int passwordLength = ThreadLocalRandom.current().nextInt(min, max);
+    	
+    	
+        String capitalLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        String smallLetters = "abcdefghijklmnopqrstuvwxyz";
+        String numbers = "0123456789";
+        String symbols ="!@#$%^&*_=+-/.?<>";
+        String values="";
+        switch (complexity) {
+		case low: 
+			values = capitalLetters+smallLetters;
+			break;
+		case mid:
+			values = capitalLetters+smallLetters+numbers;
+		case high:
+			values = capitalLetters+smallLetters+numbers+symbols;
+
+		default:
+			break;
+		}
+        char[] password = new char[passwordLength];
+        
+        for (int i = 0; i < passwordLength; i++)
+        {
+        	int x= ThreadLocalRandom.current().nextInt(values.length());
+     	   password[i] =values.charAt(x);
+
+        }
+        return password;
+    }
+    //[C@5c647e05
+}

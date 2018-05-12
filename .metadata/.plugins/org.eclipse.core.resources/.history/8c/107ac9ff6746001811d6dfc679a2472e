@@ -1,0 +1,66 @@
+package com.swap.mavendemo.dao.impl;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+
+import com.swap.mavendemo.bean.Student;
+import com.swap.mavendemo.dao.StudentDao;
+import com.swap.mavendemo.utilities.DatabaseUtility;
+
+public class StudentDaoImpl implements StudentDao{
+	Connection connection=null;
+
+	public boolean addStudent(Student student) {
+		connection = DatabaseUtility.getDatabaseConnection();
+		Statement statement;
+		try {
+			statement = connection.createStatement();
+			statement.executeUpdate("insert into student_Info values("+student.getRollNumber()+",'"+student.getStudentName()+"',"+student.getPercentage()+")");
+			return true;
+		} catch (SQLException e) {
+			e.printStackTrace();
+			return false;
+		}
+		
+	}
+
+	public Student getStudent(int studentId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public boolean updateStudent(Student student) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public boolean deleteStudent(int studentId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public List<Student> getAllStudents() {
+		List<Student> = new ArrayList();
+		try{
+			connection = DatabaseUtility.getDatabaseConnection();
+			statement = connection.createStatement();
+			ResultSet resultSet = statement.executeQuery("select * from employee_info where emp_id="+empId);
+			while(resultSet.next()){
+				e = new Employee(
+						resultSet.getInt("emp_id"), 
+						resultSet.getString("empName_name"), 
+						resultSet.getInt("emp_salary"), 
+						new Address(resultSet.getInt("aid"), null, null));
+			}
+		}catch (Exception ex) {
+			
+		}
+		return e;
+	}
+
+}

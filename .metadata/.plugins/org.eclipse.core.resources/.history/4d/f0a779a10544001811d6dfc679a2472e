@@ -1,0 +1,47 @@
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+
+import Model.Author;
+import Model.Book;
+
+public class CompareBookAuthor {
+	
+	public static void main(String[] args) {
+		List<Author> authors=new ArrayList<>();
+		List<Book> books =new ArrayList<>();
+		
+		Book b1=new Book(103,"Black Book OF Java",authors);
+		Book b2=new Book(20,"50 Shades of gray",authors);
+		Book b3=new Book(53,"Let's Kidnap The President",authors);
+		
+		Author a1=new Author(63, "LAlit bhatt", books);
+		Author a2=new Author(204,"Steven Holzner",books);
+		Author a3=new Author(93,"E. L. James",books);
+		
+		books.add(b1);
+		books.add(b2);
+		books.add(b3);
+		
+		authors.add(a1);
+		authors.add(a2);
+		authors.add(a3);
+		
+		//books.sort();
+		//authors.sort(); this will not work we need to write customized comparator to compare the objects of book and author
+		
+		System.out.println(books);
+		System.out.println(books);
+		
+	}
+
+}
+
+class BookIdSort implements Comparator<Book>{
+
+	@Override
+	public int compare(Book o1, Book o2) {
+		return o1.getBookId()-o2.getBookId();
+	}
+	
+}

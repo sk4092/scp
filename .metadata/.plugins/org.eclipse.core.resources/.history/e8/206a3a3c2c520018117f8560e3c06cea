@@ -1,0 +1,5 @@
+package com.scp.SerealizationDemo.model;
+
+public class SeriaziableStudentWithTransient {
+
+}

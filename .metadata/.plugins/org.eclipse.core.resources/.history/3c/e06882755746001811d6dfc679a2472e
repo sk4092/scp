@@ -1,0 +1,5 @@
+package com.swap.mavendemo.service.impl;
+
+public class ServiceImpl {
+
+}

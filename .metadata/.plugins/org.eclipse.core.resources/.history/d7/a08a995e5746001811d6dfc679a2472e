@@ -1,0 +1,5 @@
+package com.swap.mavendemo.dao.impl;
+
+public class StudentDaoImpl {
+
+}

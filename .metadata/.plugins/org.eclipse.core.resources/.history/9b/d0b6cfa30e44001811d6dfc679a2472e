@@ -1,0 +1,60 @@
+package services;
+
+import java.util.List;
+
+import Model.Book;
+import bookcomparator.BookIdSort;
+import bookcomparator.BookSortByBookName;
+
+public class CompareBookAuthor2 {
+	
+	
+	public static void main(String[] args) {
+		;
+		String compareBy="id";
+		
+	}
+	
+	private void sortBookBy(String property,List<Book> books){
+		Object comparatorObj=getBookComaparator(property);
+		
+		if(null==comparatorObj){
+			System.out.println("Invalid property for sorting");
+		}
+		
+		try{
+			BookIdSort c=(BookIdSort)comparatorObj;
+			books.sort(new BookIdSort());
+			System.out.println("\n\nBooks sorted By Id" + books);
+		}
+		catch(Exception e){
+			try{
+				BookSortByBookName c=(BookSortByBookName)comparatorObj;
+			}
+			catch (Exception ex) {
+				ex.printStackTrace();
+			}
+		}
+	}
+	
+	private static Object getBookComaparator(String compareBy){
+		
+		if(compareBy.equals("id"))
+			return new BookIdSort();
+		else if(compareBy.equals("name"))
+			return new BookSortByBookName();
+		else
+			return null;
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

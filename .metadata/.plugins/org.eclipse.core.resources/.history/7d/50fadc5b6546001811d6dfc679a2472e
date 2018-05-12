@@ -1,0 +1,42 @@
+package com.swap.mavendemo.dao.impl;
+
+import java.sql.Connection;
+import java.sql.Statement;
+import java.util.List;
+
+
+import com.swap.mavendemo.bean.Student;
+import com.swap.mavendemo.dao.StudentDao;
+import com.swap.mavendemo.utilities.DatabaseUtility;
+
+public class StudentDaoImpl implements StudentDao{
+	Connection connection=null;
+
+	public boolean addStudent(Student student) {
+		connection = DatabaseUtility.getDatabaseConnection();
+		Statement statement = connection.createStatement();
+		statement.executeUpdate("insert into employee_Info values("+e.getEmpId()+",'"+e.getEmpName()+"',"+e.getEmpSalary()+","+e.getEmpAddress().getPinCode()+")");
+		return false;
+	}
+
+	public Student getStudent(int studentId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public boolean updateStudent(Student student) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public boolean deleteStudent(int studentId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public List<Student> getAllStudents() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

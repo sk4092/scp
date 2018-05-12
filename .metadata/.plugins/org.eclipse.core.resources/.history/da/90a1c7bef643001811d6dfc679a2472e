@@ -1,0 +1,12 @@
+package Model;
+
+import java.awt.List;
+
+public class Author {
+
+	private int authorId;
+	private String authorName;
+	private List<Book> books;
+	
+	
+}

@@ -1,0 +1,5 @@
+1525616351830	Rename type 'App'
+1525618429313	Extract local variable 'generateRandomPassword'
+1525618452923	Inline local variable 'generateRandomPassword'
+1525618946096	Rename type 'NewClass'
+1525621749095	Rename local variable 'length'

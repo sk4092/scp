@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;itteration.AllIterator.listIterator(...)&apos; to &apos;iteratorStudents&apos;&#x0D;&#x0A;- Original project: &apos;CollectionFramework&apos;&#x0D;&#x0A;- Original element: &apos;itteration.AllIterator.listIterator(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;itteration.AllIterator.iteratorStudents(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;listIterator&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;itteration{AllIterator.java[AllIterator~listIterator~QCollection\&lt;QStudent;&gt;;" name="iteratorStudents" references="true" stamp="1524599460305" version="1.0"/>
+</session>

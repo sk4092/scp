@@ -1,0 +1,27 @@
+package com.thissuper;
+
+class Parent {
+	int x;
+
+	public Parent() {
+
+	}
+
+	public void m1() {
+
+	}
+
+}
+
+class Parent {
+	int x;
+
+	public Parent() {
+
+	}
+
+	public void m1() {
+
+	}
+
+}

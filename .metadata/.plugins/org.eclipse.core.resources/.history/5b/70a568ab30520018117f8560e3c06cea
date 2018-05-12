@@ -1,0 +1,46 @@
+package com.scp.SerealizationDemo;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
+
+import com.scp.SerealizationDemo.model.SerializableStudent;
+
+public class App2 {
+
+	// If the structure of serializable class is changed after the serialization
+	// and then
+	// after we try to deserialize the object (using the class with new
+	// structure) it will throw the Exception
+	
+	//First serialize the object and store it in file
+	
+	String filePath="D:\\swapnil\\Scoopen\\filesUsedInFileHandlingPrograms\\serilaztionClassStructureChange.txt";
+	SerializableStud ss= new SerializableStud(20, 10);
+	
+	File f =new File(filePath);
+	ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(f));    	
+    oos.writeObject(o);
+    
+    
+    
+    ObjectInputStream ois= new ObjectInputStream(new FileInputStream(f));
+    return ois.readObject();
+    
+
+}
+
+class SerializableStud implements Serializable {
+
+	int rollNo;
+	int standard;
+
+	public SerializableStud(int rollNo, int standard) {
+		this.rollNo = rollNo;
+		this.standard = standard;
+	}
+	
+}

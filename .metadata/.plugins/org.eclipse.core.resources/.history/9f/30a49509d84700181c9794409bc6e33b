@@ -1,0 +1,25 @@
+package com.scp.LombokDemo;
+
+
+import com.scp.LombokDemo.bean.Student;
+
+import lombok.AllArgsConstructor;
+import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	Student student=new Student();
+    	
+    	
+        System.out.println( "Hello World!" );
+    }
+}

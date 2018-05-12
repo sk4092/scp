@@ -1,0 +1,8 @@
+package com.scp.QuestionSet.DigitInString;
+
+public class SingleDigitsSumInString {
+	public static void main(String[] args) {
+		
+	}
+
+}

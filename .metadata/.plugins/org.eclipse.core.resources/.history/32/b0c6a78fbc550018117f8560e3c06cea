@@ -1,0 +1,51 @@
+package com.scp.Multithreading;
+
+import java.lang.reflect.Type;
+import java.util.concurrent.Executor;
+import java.util.concurrent.Executors;
+
+public class ImplementsRunnableDemo {
+	public static void main(String[] args) throws InterruptedException {
+
+		MyRunnable myRunnable = new MyRunnable(); // Implements Runnable Interface
+		MyThread2 myThread2 = new MyThread2("Swapnils thread 2");// Extends Thread Class
+		Thread t1 = new Thread(myRunnable, "Swapnils Thread");
+		t1.run();
+		myThread2.run();
+				
+		//running a class implemnting runnable without creating a new thread 
+		//ONLY APPLIABLE FROM JAVA 1.5
+		Executor executor = Executors.newFixedThreadPool(2);
+		executor.execute(myRunnable);
+		
+		//Object o=new Object();
+		//Type classx=o.equals();
+	}
+
+}
+
+class MyRunnable implements Runnable {
+	public void run() {
+		int count = 0;
+		while (count < 5) {
+			System.out.println("Thread is running In Runnable Implementation " + Thread.currentThread().getName());
+			count++;
+		}
+	}
+}
+
+class MyThread2 extends Thread {
+
+	public MyThread2(String string) {
+		this.setName(string);
+	}
+
+	@Override
+	public void run() {
+		int count = 0;
+		while (count < 5) {
+			System.out.println("Thread is running extending Thread Class " + getName());
+			count++;
+		}
+	}
+}

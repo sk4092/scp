@@ -1,0 +1,7 @@
+package com.swap.mavendemo.dao.impl;
+
+import com.swap.mavendemo.dao.StudentDao;
+
+public class StudentDaoImpl implements StudentDao{
+
+}

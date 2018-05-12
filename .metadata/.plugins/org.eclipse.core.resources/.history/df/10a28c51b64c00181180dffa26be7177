@@ -1,0 +1,18 @@
+package com.scp.QuestionSet.ReverseNumber;
+
+public class ReverseNumberUsingRecursion {
+	public static void main(String[] args) {
+		
+	}
+	
+	public void reverseNumber(int num){
+		if(num<10){
+			return;
+		}
+		else{
+			System.out.println(num%10);
+			num=num/10;
+			reverseNumber(num);
+		}
+	}
+}

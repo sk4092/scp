@@ -1,0 +1,32 @@
+package DuplicateValueInSet;
+
+import java.util.HashSet;
+import java.util.Random;
+import java.util.Set;
+
+public class DuplicateValueInSet {
+	public static void main(String[] args) {
+		HashSet<A> hashSet = new HashSet();
+		A a=new A(10);
+		hashSet.add(a);
+		hashSet.add(a);
+		hashSet.add(a);
+		hashSet.add(a);
+	}
+}
+
+class A {
+
+	int x;
+
+	A(int x) {
+		this.x = x;
+	}
+
+	@Override
+	public int hashCode() {
+		Random rand = new Random();
+		int n = rand.nextInt(500000000) + 1;
+		return n;
+	}
+}
