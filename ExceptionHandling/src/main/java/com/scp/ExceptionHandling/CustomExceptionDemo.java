@@ -2,22 +2,22 @@ package com.scp.ExceptionHandling;
 
 public class CustomExceptionDemo {
 	public static void main(String[] args) {
-		try{
+		try {
 			throw new MyException("INVALID DATA");
-		}
-		catch (MyException e) {
+		} catch (MyException e) {
 			System.out.println(e);
 		}
 	}
 }
 
-class MyException extends Exception{
+class MyException extends Exception {
 	String message;
+
 	public MyException(String message) {
-		this.message=message;
+		this.message = message;
 	}
-	
-	public String toString(){ 
-		return ("MyException Occurred: "+message) ;
-	   }
+
+	public String toString() {
+		return ("MyException Occurred: " + message);
+	}
 }
