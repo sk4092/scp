@@ -1,5 +1,0 @@
-package com.swap.mavendemo.service;
-
-public interface StudentService {
-
-}

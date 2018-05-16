@@ -1,7 +1,0 @@
-package com.swap.mavendemo.dao;
-
-import java.util.List;
-
-public I StudentDao {
-	
-}

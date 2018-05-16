@@ -1,7 +1,0 @@
-package com.scp.QuestionSet.ReverseNumber;
-
-public class ReverseNumberArray {
-	public static void main(String[] args) {
-
-	}
-}

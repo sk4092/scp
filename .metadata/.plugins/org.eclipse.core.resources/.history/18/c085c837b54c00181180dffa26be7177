@@ -1,7 +1,0 @@
-package com.scp.QuestionSet.ReverseNumber;
-
-public class ReverseNumberWhileLoop {
-	public static void main(String[] args) {
-
-	}
-}

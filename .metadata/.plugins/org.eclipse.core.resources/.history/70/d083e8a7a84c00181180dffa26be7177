@@ -1,7 +1,0 @@
-package com.scp.QuestionSet.ReverseString;
-
-public class ReverseStringStringBuilder {
-	public static void main(String[] args) {
-
-	}
-}

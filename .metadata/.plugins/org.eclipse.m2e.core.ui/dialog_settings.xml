@@ -44,6 +44,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\swapnil\Scoopen\WorkSpace\CollectionFramework"/>
+			<item value="D:\swapnil\Scoopen\WorkSpace\PasswordGeneration"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -56,12 +58,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.scp.ExceptionHandling"/>
+			<item value="com.scp.Multithreading"/>
+			<item value="com.scp.SerealizationDemo"/>
 			<item value="com.scp.LombokDemo"/>
 		</list>
 		<list key="groupId">
 			<item value="com.scp"/>
 		</list>
 		<list key="artifactId">
+			<item value="ExceptionHandling"/>
+			<item value="Multithreading"/>
+			<item value="SerealizationDemo"/>
 			<item value="LombokDemo"/>
 		</list>
 		<list key="projectNameTemplate">

@@ -3296,3 +3296,194 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (1) references 
 2018-05-13 23:02:04,231 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
 2018-05-13 23:02:04,241 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-05-13 23:02:04,241 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-13 23:58:20,238 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-13 23:58:20,238 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-13 23:58:20,238 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-13 23:58:20,238 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:09:24,418 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:09:24,418 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:09:24,418 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:09:24,418 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:09:34,178 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:09:34,178 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:09:34,178 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:09:34,178 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:10:29,039 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:10:29,039 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:10:29,039 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:10:29,039 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:10:31,779 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:10:31,779 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:10:31,779 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:10:31,779 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:10:48,916 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:10:48,916 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:10:48,916 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:10:48,916 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:10:55,375 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:10:55,375 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:10:55,375 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:10:55,375 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:11:28,040 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:11:28,040 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:11:28,060 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:11:28,060 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:11:58,688 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:11:58,688 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:11:58,688 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:11:58,688 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:12:03,320 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:12:03,320 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:12:03,320 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:12:03,320 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:12:43,081 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:12:43,081 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:12:43,081 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:12:43,081 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:13:03,162 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:13:03,162 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:13:03,162 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:13:03,162 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:13:06,902 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:13:06,902 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:13:06,902 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:13:06,902 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-14 00:33:50,852 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:33:50,852 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\main\resources
+2018-05-14 00:33:50,852 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-14 00:33:50,852 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\ExceptionHandling\src\test\resources
+2018-05-16 22:40:47,819 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\swapnil\Scoopen\WorkSpace\enum\pom.xml
+2018-05-16 22:41:06,953 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.scp:enum:0.0.1-SNAPSHOT @ D:\swapnil\Scoopen\WorkSpace\enum\pom.xml.
+2018-05-16 22:41:16,788 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /enum/src/main/java
+2018-05-16 22:41:16,796 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /enum/src/test/java
+2018-05-16 22:41:17,199 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 29 sec
+2018-05-16 22:41:20,729 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:41:20,730 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enum\src\main\resources
+2018-05-16 22:41:20,734 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:41:20,734 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enum\src\test\resources
+2018-05-16 22:42:31,825 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.scp:enum:0.0.1-SNAPSHOT @ D:\swapnil\Scoopen\WorkSpace\enumdemo\pom.xml.
+2018-05-16 22:42:33,086 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:42:33,087 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:42:33,089 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:42:33,090 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:42:33,376 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:42:33,376 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:42:33,377 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:42:33,378 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:42:55,303 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:42:55,304 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:42:55,306 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:42:55,306 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:43:03,746 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:43:03,747 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:43:03,748 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:43:03,748 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:43:32,175 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:43:32,176 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:43:32,178 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:43:32,178 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:43:42,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:43:42,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:43:42,886 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:43:42,886 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:45:18,803 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:45:18,803 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:45:18,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:45:18,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:47:58,125 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.scp:enum:0.0.1-SNAPSHOT @ D:\swapnil\Scoopen\WorkSpace\enumdemo\pom.xml.
+2018-05-16 22:51:34,272 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:51:34,272 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:51:34,277 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:51:34,278 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:51:34,716 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:51:34,716 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:51:34,718 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:51:34,718 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:53:21,236 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:53:21,236 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:53:21,238 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:53:21,239 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:53:28,346 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:53:28,346 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:53:28,347 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:53:28,348 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:56:57,671 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:56:57,671 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:56:57,674 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:56:57,675 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:57:27,999 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:57:28,000 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:57:28,004 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:57:28,004 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 22:58:09,557 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:58:09,565 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 22:58:09,568 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 22:58:09,568 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 23:00:18,068 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 23:00:18,069 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 23:00:18,072 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 23:00:18,073 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 23:32:49,200 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 23:32:49,201 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 23:32:49,204 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 23:32:49,205 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 23:33:41,551 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 23:33:41,551 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 23:33:41,552 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 23:33:41,553 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-16 23:34:24,033 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 23:34:24,034 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-16 23:34:24,035 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-16 23:34:24,036 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 00:30:30,191 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 00:30:30,192 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 00:30:30,194 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 00:30:30,194 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 00:39:49,274 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 00:39:49,274 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 00:39:49,275 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 00:39:49,276 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 00:40:15,461 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 00:40:15,461 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 00:40:15,464 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 00:40:15,465 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 00:41:48,810 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 00:41:48,811 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 00:41:48,812 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 00:41:48,812 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 01:23:55,347 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:23:55,348 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\Multithreading\src\main\resources
+2018-05-17 01:23:55,350 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:23:55,350 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\Multithreading\src\test\resources
+2018-05-17 01:24:36,405 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:24:36,406 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\Multithreading\src\main\resources
+2018-05-17 01:24:36,408 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:24:36,409 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\Multithreading\src\test\resources
+2018-05-17 01:26:15,234 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:26:15,235 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\Multithreading\src\main\resources
+2018-05-17 01:26:15,236 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:26:15,236 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\Multithreading\src\test\resources
+2018-05-17 01:29:03,351 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:29:03,352 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 01:29:03,354 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:29:03,354 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 01:29:54,975 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:29:54,976 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 01:29:54,977 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:29:54,978 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 01:30:38,845 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:30:38,845 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 01:30:38,846 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:30:38,847 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 01:34:54,442 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:34:54,442 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 01:34:54,443 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:34:54,443 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 01:35:31,471 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:35:31,471 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 01:35:31,474 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:35:31,474 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources
+2018-05-17 01:36:12,381 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:36:12,382 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\main\resources
+2018-05-17 01:36:12,384 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 01:36:12,384 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\swapnil\Scoopen\WorkSpace\enumdemo\src\test\resources

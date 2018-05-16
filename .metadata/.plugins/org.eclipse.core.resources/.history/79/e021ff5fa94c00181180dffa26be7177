@@ -1,9 +1,0 @@
-package com.scp.QuestionSet.ReverseString;
-
-public class ReverseStringByteArray {
-	public static void main(String[] args) {
-		String s="Swapnil";
-		byte [] bytes=s.getBytes();
-		
-	}
-}
