@@ -8,6 +8,9 @@
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="show_sql">true</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <property name = "hibernate.current_session_context_class">thread</property>
         <mapping resource="com/scp/hibernate/Student.hbm.xml"></mapping>
+        <mapping class = "com.scp.hibernate.model.StudentWithMapping"></mapping>
     </session-factory>
 </hibernate-configuration>

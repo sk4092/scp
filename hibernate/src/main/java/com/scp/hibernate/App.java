@@ -5,6 +5,7 @@ import java.util.List;
 import org.hibernate.Session;
 
 import com.scp.hibernate.model.Student;
+import com.scp.hibernate.model.StudentWithMapping;
 import com.scp.hibernate.util.HibernateUtil;
 
 /**
@@ -19,7 +20,7 @@ public class App
          Session session = HibernateUtil.getSessionFactory().openSession();
          
          session.beginTransaction();
-        Student student = new Student();
+         StudentWithMapping student = new StudentWithMapping();
          
         student.setId(2);
         student.setName("Sahil Kumbhar");
@@ -27,10 +28,10 @@ public class App
          session.save(student);
          session.getTransaction().commit();
          
-         List result = session.createCriteria(Student.class).list();
+         List result = session.createCriteria(StudentWithMapping.class).list();
          
          for (Object object : result) {
-			Student s = (Student) object;
+        	 StudentWithMapping s = (StudentWithMapping) object;
 			System.out.println(s.getName());
 		}
     }
