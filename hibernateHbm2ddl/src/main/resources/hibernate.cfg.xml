@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.bytecode.use_reflection_optimizer">false</property>
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.connection.password">root</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/student</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="show_sql">true</property>
+        <!-- <property name="hibernate.hbm2ddl.auto">create</property> --> 
+        <!-- <property name="hibernate.hbm2ddl.auto">create-drop</property> -->
+        <!-- <property name="hibernate.hbm2ddl.auto">validate</property> -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <property name = "hibernate.current_session_context_class">thread</property>
+        <mapping class = "com.scp.hibernateHbm2ddl.entity.StudentEntity"></mapping>
+    </session-factory>
+</hibernate-configuration>
+
+<!--
+create : will drop existing table and create new tables existing data in table willbe lost 
+create-drop : will drop existing table and create new tables existing data in table willbe lost and if we close the session factory the table will be dropped
+validate : will validate the schema if valid schema found then proceed for further execution otherwise throws exception
+update : will create table if not exist, Alter table if changes found in entity table,
+	
+NOTE : if no value is provided for hbm2ddl or any random value other than above 4 values is provided 
+		then
+		-If schema is not present in the DB:- It creates the schema
+		-If schema is present in the DB:- update the schema 	
+NOTE : dropping existing column is supported by hbm2ddl, i.e. change in column name will create a new column
+-->
