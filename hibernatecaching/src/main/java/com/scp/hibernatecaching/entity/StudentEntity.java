@@ -10,12 +10,15 @@ import javax.persistence.Table;
 import org.hibernate.annotations.Cache;
 import org.hibernate.annotations.CacheConcurrencyStrategy;
 
+import net.sf.ehcache.config.PersistenceConfiguration.Strategy;
+
 @Entity
-@Table(name = "Student_Info_5")
+@Table(name = "Student_Info_6")
 @Cache(usage = CacheConcurrencyStrategy.READ_ONLY)
 public class StudentEntity {
 
 	@Id
+	//@GeneratedValue(strategy = GenerationType.AUTO)
 	int id;
 
 	@Column(name = "student_name")
